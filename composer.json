@@ -1,6 +1,8 @@
 {
     "name": "abdulrahman/multilang-slug",
     "description": "A package to generate multilingual slugs easily for Laravel models",
+        "keywords": ["laravel", "slug", "multilingual", "slugify"],
+
     "type": "library",
     "license": "MIT",
     "autoload": {
