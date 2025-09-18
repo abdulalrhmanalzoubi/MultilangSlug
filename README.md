@@ -19,4 +19,4 @@
 Install the package via Composer:
 
 ```bash
-composer require abdulrahman/multilang-slug
+composer require alzoubi/multilang-slug
